@@ -1,0 +1,6 @@
+{
+  "name": "NexFlow AI — Urban Congestion Control",
+  "description": "An AI-driven traffic management platform featuring real-time digital twin grid simulations, adaptive signal optimization, environmental ROI analytics, and GenAI-powered bottleneck solver for modern cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
